@@ -2,6 +2,8 @@
 
 **NOTE**: Model Weights (i.e. training logs) and the intermediate Cache can be found on this [Drive Link](https://drive.google.com/drive/folders/1kS9AJS2txirpITDypZBX2VP2xxd1cE0O?usp=sharing)
 
+An HTML render of `nbs/task2.ipynb` can be found [linked here](https://adiah80.github.io/tasks/html/Normalizing_Flows.html). This should be more convinient than directly using the notebook as GitHub usually has issues in loading them. 
+
 ## Ideal Directory Structure
 
 Directory Structure [Excluding Log/Temp Files]:
@@ -122,4 +124,3 @@ Average EMD: 1.021
 - Analysis and approach inspired from the paper - "Graph Generative Models for Fast Detector
 Simulations in Particle Physics" (Hariri et al., 2020) [[link](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_138.pdf)]
 - Cache and Logs: [Link](https://drive.google.com/drive/folders/1kS9AJS2txirpITDypZBX2VP2xxd1cE0O?usp=sharing)
-```
